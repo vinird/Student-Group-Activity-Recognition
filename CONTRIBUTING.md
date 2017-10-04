@@ -1,4 +1,4 @@
-#Fork a Repo 
+# Fork a Repo 
 
 A *fork* is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 
@@ -14,7 +14,7 @@ A great example of using forks to propose changes is for bug fixes. Rather than 
 
 If the project owner likes your work, they might pull your fix into the original repository!
 
-###How to fork this repo
+### How to fork this repo
 
 Forking a repository is a simple two-step process. We've created a repository for you to practice with!
 
